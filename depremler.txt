@@ -1,0 +1,508 @@
+
+..................TÜRKİYE VE YAKIN ÇEVRESİNDEKİ SON DEPREMLER....................
+.....BÖLGESEL DEPREM-TSUNAMİ İZLEME VE DEĞERLENDİRME MERKEZİ HIZLI ÇÖZÜMLERİ.....
+......(YAPAY SARSINTI ANALİZİ YAPILMAMIŞTIR) Son 500 deprem listelenmiştir......
+                                                        Büyüklük
+Tarih      Saat      Enlem(N)  Boylam(E) Derinlik(km)  MD   ML   Mw    Yer                                             Çözüm Niteliği
+---------- --------  --------  -------   ----------    ------------    --------------                                  --------------
+2020.06.17 13:15:43  40.2190   30.8008        5.3      -.-  1.7  -.-   HIMMETOGLU-GOYNUK (BOLU)                          İlksel
+2020.06.17 13:12:08  39.5878   29.3810        0.0      -.-  1.5  -.-   KOPRUCEK-TAVSANLI (KUTAHYA)                       İlksel
+2020.06.17 13:09:30  40.2068   30.8000        8.6      -.-  1.8  -.-   HIMMETOGLU-GOYNUK (BOLU)                          İlksel
+2020.06.17 12:55:30  40.3418   27.8747        8.0      -.-  1.2  -.-   EDINCIK-BANDIRMA (BALIKESIR)                      İlksel
+2020.06.17 12:35:06  37.2263   28.3223        5.0      -.-  1.7  -.-   AKCAOVA-(MUGLA)                                   İlksel
+2020.06.17 12:33:09  37.5360   35.4085        4.0      -.-  1.4  -.-   ALADAG (ADANA)                                    İlksel
+2020.06.17 12:26:19  39.3377   40.6290        5.0      -.-  2.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 12:18:25  37.2322   27.9192        0.0      -.-  1.5  -.-   CAMLIBELEN-MILAS (MUGLA)                          İlksel
+2020.06.17 12:11:25  40.4775   29.2740        0.0      -.-  1.5  -.-   FINDIKLI-ORHANGAZI (BURSA)                        İlksel
+2020.06.17 12:11:24  38.3952   39.2052        4.5      -.-  0.5  -.-   DORTBOLUK-SIVRICE (ELAZIG)                        İlksel
+2020.06.17 12:10:05  40.7235   27.5098        8.4      -.-  1.7  -.-   GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       İlksel
+2020.06.17 12:04:22  39.1117   27.5683        5.8      -.-  1.8  -.-   DEREKOY-SOMA (MANISA)                             İlksel
+2020.06.17 12:02:24  37.2030   27.9702        0.0      -.-  1.7  -.-   CAMLICA-YATAGAN (MUGLA)                           İlksel
+2020.06.17 11:54:07  38.2692   38.7758        5.4      -.-  2.0  -.-   KARSIYAKA-PUTURGE (MALATYA)                       İlksel
+2020.06.17 11:48:12  37.2532   28.3002        5.0      -.-  2.2  -.-   IKIZCE-(MUGLA)                                    İlksel
+2020.06.17 11:47:13  37.5088   38.6100        5.0      -.-  4.3  4.2   GAZIBEY-(SANLIURFA)                               İlksel
+2020.06.17 11:45:10  40.1152   24.4910       31.0      -.-  2.3  -.-   YUNANISTAN                                        İlksel
+2020.06.17 11:34:31  39.0817   27.5492        2.2      -.-  1.8  -.-   EGNEZ-SOMA (MANISA)                               İlksel
+2020.06.17 11:31:00  39.3445   40.5635        6.3      -.-  2.3  -.-   CATMAOLUK-ADAKLI (BINGOL)                         İlksel
+2020.06.17 10:40:36  36.5228   28.9783        2.6      -.-  1.8  -.-   OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 İlksel
+2020.06.17 10:16:33  39.3452   40.6442        5.0      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 10:13:47  38.4422   26.6817        3.6      -.-  1.7  -.-   IZMIR KORFEZI (EGE DENIZI)                        İlksel
+2020.06.17 10:00:00  39.3147   40.4893        4.8      -.-  1.8  -.-   AYSAKLI-ADAKLI (BINGOL)                           İlksel
+2020.06.17 09:55:30  37.8315   29.2023        0.0      -.-  1.7  -.-   KOCADERE-(DENIZLI)                                İlksel
+2020.06.17 09:05:50  39.3628   40.6313        9.2      -.-  2.1  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.17 08:49:27  39.3427   40.6690        1.9      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 08:40:55  39.4162   40.7018       16.3      -.-  2.1  -.-   SOBECAYIR-CAT (ERZURUM)                           İlksel
+2020.06.17 08:08:14  36.1788   29.2692        7.5      -.-  1.5  -.-   KALKAN ACIKLARI-ANTALYA (AKDENIZ)                 İlksel
+2020.06.17 07:01:32  34.3045   23.7163       30.6      -.-  2.9  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.17 06:58:10  39.3420   40.7483        3.9      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.17 06:26:32  39.9783   33.4447        5.0      -.-  1.1  -.-   SAMANLIK-KALECIK (ANKARA)                         İlksel
+2020.06.17 06:25:41  39.3690   40.6735       15.6      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 06:24:34  39.3447   40.6832        5.0      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 06:14:49  39.3850   40.7662       13.8      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.17 06:07:18  39.3830   40.7433        5.3      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.17 05:09:02  37.0127   28.5507       19.7      -.-  1.5  -.-   KARABOGURTLEN-ULA (MUGLA)                         İlksel
+2020.06.17 05:05:52  39.3537   40.6668       10.9      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 04:39:58  39.3527   40.6700        3.1      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 04:27:30  39.3570   40.6655        7.3      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 04:16:28  33.5217   27.9955        5.0      -.-  3.0  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.17 03:51:28  39.3695   40.7057        5.3      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 03:33:05  37.5197   35.9653        6.9      -.-  1.9  -.-   ESKIMANTAS-KOZAN (ADANA)                          İlksel
+2020.06.17 03:11:07  38.0140   26.9508        7.3      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2020.06.17 02:54:29  39.3460   40.7138        5.0      -.-  3.3  3.4   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.17 02:43:34  37.0850   28.7532        5.0      -.-  1.5  -.-   YAYLA-KOYCEGIZ (MUGLA)                            İlksel
+2020.06.17 02:41:54  37.9280   29.1380        5.3      -.-  1.4  -.-   PAMUKKALE-(DENIZLI)                               İlksel
+2020.06.17 02:06:32  39.3907   40.7467        5.1      -.-  1.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.17 02:01:43  37.2092   37.4933        9.0      -.-  1.6  -.-   GUNGURGE-SEHITKAMIL (GAZIANTEP)                   İlksel
+2020.06.17 01:50:32  39.3300   40.7758        5.5      -.-  1.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.17 01:48:32  38.7365   27.8208        9.5      -.-  1.5  -.-   KUMKUYUCAK-SARUHANLI (MANISA)                     İlksel
+2020.06.17 01:42:18  40.0370   42.7387        7.9      -.-  1.8  -.-   YELLIKIRAN-KAGIZMAN (KARS)                        İlksel
+2020.06.17 01:41:53  38.7387   27.8453        6.2      -.-  1.6  -.-   TIYENLI-GOLMARMARA (MANISA)                       İlksel
+2020.06.17 01:39:29  33.8433   28.2318        2.3      -.-  2.8  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.17 00:42:38  33.9993   28.1608       98.1      -.-  3.1  3.4   AKDENIZ                                           İlksel
+2020.06.17 00:22:38  39.3377   40.7088        5.0      -.-  2.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 23:20:36  36.0112   30.9442       49.9      -.-  2.4  -.-   AKDENIZ                                           İlksel
+2020.06.16 23:13:32  35.6840   32.2120       39.0      -.-  2.0  -.-   AKDENIZ                                           İlksel
+2020.06.16 23:05:19  35.5122   26.7072        5.0      -.-  2.5  -.-   AKDENIZ                                           İlksel
+2020.06.16 22:18:11  37.8008   29.9977        4.2      -.-  3.8  3.9   BASMAKCI-(BURDUR)                                 İlksel
+2020.06.16 22:15:37  35.4002   26.7987       11.4      -.-  3.2  3.1   GIRIT ADASI (AKDENIZ)                             İlksel
+2020.06.16 20:57:16  38.9855   27.9055        3.0      -.-  1.8  -.-   YENICE-AKHISAR (MANISA)                           İlksel
+2020.06.16 20:16:37  36.9390   27.3162       13.1      -.-  3.0  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2020.06.16 19:00:39  33.8658   25.8977        9.6      -.-  3.4  3.4   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.16 16:25:27  39.0295   27.8617       10.8      -.-  2.2  -.-   MUSALAR-AKHISAR (MANISA)                          İlksel
+2020.06.16 16:22:17  39.3645   40.6252        5.4      -.-  2.3  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.16 16:16:22  37.7803   37.5323        5.0      -.-  2.5  -.-   HACILAR-GOLBASI (ADIYAMAN)                        İlksel
+2020.06.16 15:57:40  39.3725   40.6627        5.0      -.-  4.3  4.4   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 15:16:11  38.7345   43.0797        5.0      -.-  2.5  -.-   VAN GOLU                                          İlksel
+2020.06.16 15:02:09  35.5360   32.1602       15.5      -.-  2.3  -.-   AKDENIZ                                           İlksel
+2020.06.16 14:46:21  39.3417   40.6582        5.0      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 14:44:01  39.3647   40.7513        8.3      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.16 14:42:04  38.1962   30.7615        5.2      -.-  1.5  -.-   GENCALI-SENIRKENT (ISPARTA)                       İlksel
+2020.06.16 14:04:26  39.3518   40.6477        4.7      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 14:02:49  39.3347   40.7742        5.0      -.-  3.0  3.0   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.16 13:54:41  39.3323   40.6528        5.0      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 13:32:22  39.3433   40.7133        2.1      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 13:25:47  38.6098   39.4887       13.0      -.-  2.2  -.-   ELMAPINARI-(ELAZIG)                               İlksel
+2020.06.16 13:00:14  39.3773   40.6053       14.1      -.-  2.0  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.16 12:55:40  39.3335   40.6490        1.2      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 12:27:15  36.9772   28.0690        5.0      -.-  1.9  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2020.06.16 12:05:20  37.3012   27.9753        0.0      -.-  1.4  -.-   KOZAGAC-YATAGAN (MUGLA)                           İlksel
+2020.06.16 11:58:02  37.2178   28.2602        0.0      -.-  2.2  -.-   KAFACA-(MUGLA)                                    İlksel
+2020.06.16 11:49:35  37.1128   28.2973        0.0      -.-  1.3  -.-   YENICE-(MUGLA)                                    İlksel
+2020.06.16 11:49:34  37.1328   28.1828        5.0      -.-  1.3  -.-   BAGYAKA-(MUGLA)                                   İlksel
+2020.06.16 11:06:07  39.3678   40.6407       24.4      -.-  2.1  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.16 10:53:17  37.4822   36.0050        1.8      -.-  2.5  -.-   HOYUK-SUMBAS (OSMANIYE)                           İlksel
+2020.06.16 10:44:24  39.3270   40.6877        1.5      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 10:41:20  40.4067   27.1845       11.8      -.-  1.8  -.-   ORTULUCE-BIGA (CANAKKALE)                         İlksel
+2020.06.16 10:28:22  39.3868   40.6867       16.3      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 10:24:23  36.1097   31.3125       26.0      -.-  2.1  -.-   AKDENIZ                                           İlksel
+2020.06.16 10:06:15  36.5867   36.4375        7.8      -.-  2.0  -.-   KARAMANKASI-KIRIKHAN (HATAY)                      İlksel
+2020.06.16 10:02:07  36.4633   28.7193        2.5      -.-  3.0  2.9   AKDENIZ                                           İlksel
+2020.06.16 09:57:34  39.3650   40.6907        2.5      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 09:46:22  38.4597   39.2072        2.4      -.-  1.9  -.-   DEDEYOLU-SIVRICE (ELAZIG)                         İlksel
+2020.06.16 09:37:57  40.6108   30.3407        0.0      -.-  1.6  -.-   SEREFIYE-GEYVE (SAKARYA)                          İlksel
+2020.06.16 09:12:34  38.4333   39.3370       13.8      -.-  1.1  -.-   SIVRICE (ELAZIG)                                  İlksel
+2020.06.16 09:00:53  39.3545   40.7288       11.0      -.-  1.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.16 08:58:10  38.7930   38.0387        7.5      -.-  1.9  -.-   YAGCA-HEKIMHAN (MALATYA)                          İlksel
+2020.06.16 08:43:44  39.3583   40.6938        7.7      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 08:36:35  39.3257   40.6395        7.6      -.-  1.9  -.-   AKTAS-ADAKLI (BINGOL)                             İlksel
+2020.06.16 07:37:40  39.3552   40.6923        4.9      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 07:32:17  37.1735   28.7648        3.4      -.-  1.8  -.-   KARACAOREN-(MUGLA)                                İlksel
+2020.06.16 07:21:06  37.4358   35.9915        4.3      -.-  1.5  -.-   KUCUKCINAR-SUMBAS (OSMANIYE)                      İlksel
+2020.06.16 07:12:52  39.3368   40.7055        5.0      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 07:10:18  39.3510   40.6938        5.0      -.-  2.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 06:28:48  33.8680   25.9337        7.9      -.-  3.2  3.3   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.16 06:17:53  36.6040   36.4838        5.0      -.-  2.6  -.-   AYGIRGOLU-KIRIKHAN (HATAY)                        İlksel
+2020.06.16 06:05:52  39.3818   40.6557       14.7      -.-  2.0  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.16 05:44:22  37.4043   35.9527        4.5      -.-  1.3  -.-   CAYGECIT-KADIRLI (OSMANIYE)                       İlksel
+2020.06.16 05:21:57  36.9968   28.5180       11.1      -.-  2.4  -.-   CORUS-ULA (MUGLA)                                 İlksel
+2020.06.16 04:34:48  39.1973   40.6903        4.9      -.-  1.6  -.-   KAYNAKDUZU-ADAKLI (BINGOL)                        İlksel
+2020.06.16 04:34:13  39.3718   40.6443       13.4      -.-  1.9  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.16 04:12:29  39.3772   40.7355        7.1      -.-  1.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.16 03:57:07  38.2655   38.7838        8.5      -.-  1.8  -.-   KARSIYAKA-PUTURGE (MALATYA)                       İlksel
+2020.06.16 02:59:33  39.3660   40.7467        5.0      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.16 02:51:41  39.3743   40.6987        6.0      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 02:41:27  39.6262   27.6185        7.1      -.-  1.2  -.-   GOKCEYAZI-IVRINDI (BALIKESIR)                     İlksel
+2020.06.16 02:33:29  39.3575   40.7750        4.4      -.-  1.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.16 02:11:58  39.3493   40.7240        7.1      -.-  1.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.16 01:58:59  38.3668   39.1928        5.0      -.-  1.1  -.-   DOGANSU-SIVRICE (ELAZIG)                          İlksel
+2020.06.16 01:57:18  38.4410   39.2988        5.0      -.-  1.7  -.-   SIVRICE (ELAZIG)                                  İlksel
+2020.06.16 01:28:21  38.4167   26.7015       10.8      -.-  1.6  -.-   IZMIR KORFEZI (EGE DENIZI)                        İlksel
+2020.06.16 00:56:12  39.3392   40.7065        5.0      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.16 00:48:25  38.0737   37.9517        5.0      -.-  2.3  -.-   GUROBASI-DOGANSEHIR (MALATYA)                     İlksel
+2020.06.16 00:35:09  38.4565   39.1093       11.5      -.-  1.4  -.-   DEREBOYNU-SIVRICE (ELAZIG)                        İlksel
+2020.06.16 00:24:24  36.8262   23.9112       18.6      -.-  3.0  -.-   YUNANISTAN                                        İlksel
+2020.06.16 00:23:07  38.5513   36.3803        5.0      -.-  3.0  -.-   BUYUKKABAKTEPE-PINARBASI (KAYSERI)                İlksel
+2020.06.16 00:10:39  39.3650   40.7295        5.5      -.-  3.4  3.3   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 23:44:18  39.3610   40.6912        6.1      -.-  1.6  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 23:15:54  39.3677   40.6588       15.4      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 23:12:56  34.2893   25.9120        5.0      -.-  4.2  4.5   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.15 23:08:23  39.3555   40.6758        7.3      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 22:46:19  36.9995   28.5272       12.2      -.-  1.2  -.-   CORUS-ULA (MUGLA)                                 İlksel
+2020.06.15 22:33:17  39.3545   40.6528        7.8      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 22:05:57  39.3765   40.6113       15.4      -.-  2.0  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 22:03:43  38.3957   39.0993        5.3      -.-  0.9  -.-   KALABA-SIVRICE (ELAZIG)                           İlksel
+2020.06.15 22:00:15  39.3948   40.7037       16.9      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 21:48:25  39.3825   40.6325       18.5      -.-  1.6  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 21:22:39  39.3383   40.6633        5.0      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 21:06:47  38.9665   26.4235        5.0      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2020.06.15 21:04:03  38.9185   26.4582        5.0      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2020.06.15 20:21:34  39.3653   40.7137        4.1      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 20:02:36  39.3653   40.6925        5.0      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 19:52:35  39.3740   40.6817        5.0      -.-  3.7  3.9   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 19:51:13  38.4268   26.6955       16.1      -.-  1.7  -.-   IZMIR KORFEZI (EGE DENIZI)                        İlksel
+2020.06.15 19:42:41  39.4078   40.5920       18.2      -.-  2.0  -.-   YESILGOL-YEDISU (BINGOL)                          İlksel
+2020.06.15 19:41:45  39.3970   40.6805       26.9      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 19:29:14  39.3485   40.6993        5.0      -.-  3.1  3.2   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 19:26:17  39.3812   40.7095       21.5      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 19:03:32  41.0442   31.2045       10.9      -.-  1.6  -.-   CICEKPINAR-AKCAKOCA (DUZCE)                       İlksel
+2020.06.15 19:03:25  38.4180   39.1398        4.6      -.-  1.6  -.-   KAVAKKOY-SIVRICE (ELAZIG)                         İlksel
+2020.06.15 18:40:57  36.9968   28.5453       18.5      -.-  1.3  -.-   DOGUSBELEN-KOYCEGIZ (MUGLA)                       İlksel
+2020.06.15 18:23:02  39.3778   40.7005       13.9      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 18:09:52  39.3568   40.7045        2.4      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 18:07:21  38.5182   39.1058       11.7      -.-  1.5  -.-   BADEMPINARI-(ELAZIG)                              İlksel
+2020.06.15 18:05:52  39.2025   25.7030        8.3      -.-  2.6  -.-   EGE DENIZI                                        İlksel
+2020.06.15 17:32:03  39.4013   40.7553       11.8      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 17:13:30  39.3588   40.4730       17.2      -.-  2.2  -.-   CEVIZLI-ADAKLI (BINGOL)                           İlksel
+2020.06.15 17:00:23  39.3800   40.7577       10.6      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 16:34:41  39.3785   40.6693        5.3      -.-  3.2  3.2   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 16:18:55  39.3555   40.5350       13.1      -.-  2.4  -.-   SENKOY-YEDISU (BINGOL)                            İlksel
+2020.06.15 15:50:34  39.3552   40.7500       16.7      -.-  2.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 15:11:30  38.4137   39.2403        2.4      -.-  2.1  -.-   SOGUKPINAR-SIVRICE (ELAZIG)                       İlksel
+2020.06.15 14:54:54  39.3485   40.6752        6.9      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 14:41:10  39.3737   40.6868       13.0      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 14:27:23  39.3700   40.7713       15.0      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 14:26:29  39.3740   40.7348       16.7      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 14:18:27  38.4130   39.1673        1.1      -.-  1.0  -.-   KAVAKKOY-SIVRICE (ELAZIG)                         İlksel
+2020.06.15 14:01:02  39.3655   40.6755        5.3      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 13:53:35  39.3302   40.7493        7.5      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 13:49:58  39.3688   40.7360        7.3      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 13:48:56  39.3905   40.8103        5.3      -.-  2.0  -.-   SARIKUSAK-KARLIOVA (BINGOL)                       İlksel
+2020.06.15 13:27:56  40.8600   30.3760        9.5      -.-  1.6  -.-   KAYRANCIK-ADAPAZARI (SAKARYA)                     İlksel
+2020.06.15 13:18:21  39.3720   40.7522       18.4      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 12:55:56  39.3827   40.7237       14.6      -.-  1.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 12:52:04  39.3848   40.6945       17.2      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 12:45:26  39.3643   40.6790        7.4      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 12:40:01  39.3557   40.7558       15.3      -.-  1.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 12:33:42  39.3315   40.6997        7.8      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 12:32:42  39.2013   28.4780       22.9      -.-  1.7  -.-   CILBIRCI-SINDIRGI (BALIKESIR)                     İlksel
+2020.06.15 12:31:05  38.2682   38.6678       18.0      -.-  2.3  -.-   CAYKOY-PUTURGE (MALATYA)                          İlksel
+2020.06.15 12:25:25  39.3682   40.7105       15.6      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 12:19:57  39.3702   40.7733       10.4      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 12:16:25  39.3772   40.7273        7.4      -.-  2.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 12:14:49  39.3627   40.7688        3.6      -.-  2.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 12:09:18  39.3638   40.6958        3.9      -.-  2.6  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 12:08:58  35.9703   26.9690       12.0      -.-  2.4  -.-   AKDENIZ                                           İlksel
+2020.06.15 12:03:10  39.3663   40.7537       14.6      -.-  2.3  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 11:58:13  37.1458   28.1813        4.1      -.-  1.5  -.-   MEKE-(MUGLA)                                      İlksel
+2020.06.15 11:50:03  39.8402   40.6223        5.0      -.-  2.6  -.-   KUKURTLU-ASKALE (ERZURUM)                         İlksel
+2020.06.15 11:42:29  39.3473   40.7413       15.3      -.-  1.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 11:41:45  35.3900   22.9853       10.7      -.-  3.4  3.4   GIRIT ADASI (AKDENIZ)                             İlksel
+2020.06.15 11:40:49  39.3770   40.7058       19.2      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 11:35:29  39.3790   40.6825       21.1      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 11:35:12  39.3680   40.7308       10.9      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 11:30:40  39.3785   40.7383        6.8      -.-  2.3  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 11:29:36  39.6015   29.6342        0.0      -.-  1.5  -.-   GUMUSGOLCUK-TAVSANLI (KUTAHYA)                    İlksel
+2020.06.15 11:26:24  39.3782   40.7128       15.4      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 11:24:45  39.3883   40.6995       19.4      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 11:23:45  39.3813   40.6732       29.3      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 11:22:02  39.3817   40.7540       12.6      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 11:20:27  39.3452   40.7428        5.4      -.-  2.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 11:16:58  39.3538   40.7842        4.0      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 11:14:54  39.3605   40.6595       12.4      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 11:08:13  39.3833   40.7422       17.3      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:52:46  39.3267   40.6862        7.9      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:50:26  39.4125   40.7277       22.3      -.-  2.0  -.-   SOBECAYIR-CAT (ERZURUM)                           İlksel
+2020.06.15 10:47:58  39.3428   40.6833        1.8      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:40:10  39.3642   40.7070        7.2      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:36:41  39.3367   40.7490        5.0      -.-  3.1  3.2   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:32:37  39.3655   40.7662        5.0      -.-  3.9  4.0   KAYNARPINAR-KARLIOVA (BINGOL)                     REVIZE01   (2020.06.15 10:32:37)
+2020.06.15 10:27:12  39.3422   40.7242        9.2      -.-  1.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:26:18  39.2985   40.4255        4.6      -.-  2.0  -.-   YELDEGIRMENI-ADAKLI (BINGOL)                      İlksel
+2020.06.15 10:25:10  39.2730   40.6288       16.5      -.-  1.8  -.-   AKTAS-ADAKLI (BINGOL)                             İlksel
+2020.06.15 10:23:01  39.3410   40.7685       19.3      -.-  1.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:22:14  39.3587   40.6988       13.7      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:21:50  39.3793   40.7253        8.9      -.-  2.3  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:21:07  39.3678   40.7283       10.2      -.-  1.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:18:30  39.3895   40.6763       16.0      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:17:31  39.3500   40.7462       14.6      -.-  2.3  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:16:47  39.3625   40.7468       12.9      -.-  2.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:15:13  39.3853   40.6983       13.3      -.-  2.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:14:36  39.3468   40.6932        5.0      -.-  3.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:10:10  39.3640   40.6753        5.2      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:08:03  39.3690   40.7425        7.1      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:06:03  39.3655   40.7527       15.4      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:05:26  39.3928   40.7635       10.3      -.-  1.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 10:01:57  39.3707   40.7130        3.8      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 10:00:39  39.3612   40.7027        7.5      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          REVIZE01   (2020.06.15 10:00:38)
+2020.06.15 09:51:28  39.3537   40.7510        5.0      -.-  5.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 09:46:39  39.3685   40.7445        5.4      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 09:38:51  39.0143   29.9522        5.2      -.-  2.3  -.-   PINARCIK-ALTINTAS (KUTAHYA)                       İlksel
+2020.06.15 09:36:40  39.3620   40.7000        7.9      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 09:24:37  39.3787   40.7547       13.1      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 09:22:44  39.3800   40.7413       14.3      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 09:18:06  39.3667   40.5480       11.8      -.-  1.9  -.-   SENKOY-YEDISU (BINGOL)                            İlksel
+2020.06.15 09:09:58  39.3755   40.7557       20.4      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 09:06:33  39.3530   40.6932        5.0      -.-  2.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 08:56:30  40.8745   28.2572       13.8      -.-  1.6  -.-   SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        İlksel
+2020.06.15 08:46:35  38.9502   27.8760        1.9      -.-  2.6  -.-   CAMONU-AKHISAR (MANISA)                           İlksel
+2020.06.15 08:30:56  39.3632   40.7387        7.3      -.-  2.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 08:30:02  39.3593   40.7292        5.0      -.-  3.5  3.7   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 08:27:54  38.3895   39.1375        4.9      -.-  0.8  -.-   USLU-SIVRICE (ELAZIG)                             REVIZE01   (2020.06.15 08:27:56)
+2020.06.15 08:12:36  39.3402   40.7283        5.0      -.-  2.3  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 08:03:58  37.1133   28.6143        7.9      -.-  2.4  -.-   ARICILAR-ULA (MUGLA)                              İlksel
+2020.06.15 07:55:28  39.3928   25.5612        9.1      -.-  2.5  -.-   EGE DENIZI                                        İlksel
+2020.06.15 07:36:49  39.3682   40.6440        6.3      -.-  2.0  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 07:34:06  39.3302   40.7257        5.0      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 07:24:58  39.3913   40.7048        6.7      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          REVIZE01   (2020.06.15 07:24:58)
+2020.06.15 07:13:11  39.3668   40.6185       11.1      -.-  1.8  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 07:12:10  39.3735   40.6702       11.0      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 07:09:02  38.2982   38.8512       19.7      -.-  1.4  -.-   GUNDEGER-PUTURGE (MALATYA)                        REVIZE01   (2020.06.15 07:09:02)
+2020.06.15 07:04:18  39.3535   40.6480        4.6      -.-  1.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 06:43:53  39.3457   40.6568        5.5      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 06:21:35  39.3487   40.7258        5.0      -.-  2.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 06:19:33  39.3630   40.6128        5.1      -.-  2.2  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 06:16:51  38.4183   39.1998        4.6      -.-  1.1  -.-   YEDIPINAR-SIVRICE (ELAZIG)                        İlksel
+2020.06.15 06:08:37  39.3722   40.7238       10.9      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 06:04:18  39.3607   40.6467       11.8      -.-  1.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 06:02:48  39.3925   40.7303       12.9      -.-  1.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 05:54:22  39.3575   40.6433       12.4      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 05:51:20  39.6432   26.1110        5.4      -.-  1.7  -.-   KOSEDERE-AYVACIK (CANAKKALE)                      İlksel
+2020.06.15 05:46:46  39.3380   40.6937        5.0      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 05:24:50  39.3743   40.6862        5.6      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 05:06:04  39.3682   40.6883        5.4      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 04:53:25  36.8727   27.4557        5.3      -.-  1.7  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2020.06.15 04:53:09  39.3585   40.6757        6.1      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 04:32:44  39.3508   40.7322       10.0      -.-  1.8  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 04:25:47  36.8560   27.3780        5.0      -.-  1.9  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2020.06.15 04:25:28  39.3280   40.7197        5.0      -.-  1.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 04:24:52  39.3850   40.7348       14.4      -.-  1.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 04:23:29  39.3510   40.7075       11.0      -.-  1.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 04:21:05  39.3648   40.7010       10.4      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 04:14:29  39.3902   40.6677       18.3      -.-  1.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 04:13:58  39.3642   40.6900       14.6      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 04:12:13  39.3707   40.7427        5.4      -.-  1.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 04:08:42  39.3810   40.6773       10.8      -.-  1.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 03:58:46  38.7607   25.6607        6.9      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2020.06.15 03:58:46  38.8755   29.0192       22.8      -.-  1.2  -.-   CAKIRLAR-SIMAV (KUTAHYA)                          İlksel
+2020.06.15 03:58:19  39.3623   40.7425        5.0      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 03:56:12  39.3253   40.7152        5.0      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 03:50:08  39.3638   40.6723        5.5      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 03:33:52  39.3385   40.7145        5.0      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 03:31:50  39.3667   40.7158       13.4      -.-  1.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 03:31:16  39.3628   40.6865        9.1      -.-  1.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 03:25:01  39.3325   40.7560        5.0      -.-  2.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 03:14:40  39.3553   40.7110        2.0      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 03:03:33  39.3583   40.7457        4.2      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 03:02:46  39.3455   40.6725        4.7      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 02:59:17  39.3393   40.7505        5.0      -.-  2.8  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 02:55:25  39.3483   40.6155        2.7      -.-  2.3  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 02:53:40  39.3778   40.6297        4.7      -.-  1.7  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 02:47:22  39.3650   40.7428        3.6      -.-  1.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 02:44:41  39.3588   40.7295        9.6      -.-  1.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 02:43:21  39.3673   40.6977       13.1      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 02:41:19  39.3560   40.7538        5.1      -.-  1.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 02:39:58  39.1042   29.1313        8.8      -.-  1.5  -.-   SENKOY-SIMAV (KUTAHYA)                            İlksel
+2020.06.15 02:37:58  39.3553   40.6683        2.6      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 02:34:21  39.3520   40.6868        5.1      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 02:25:17  38.4183   39.2812        8.4      -.-  1.3  -.-   YEDIKARDES-SIVRICE (ELAZIG)                       İlksel
+2020.06.15 02:15:06  36.9842   28.5167        5.2      -.-  1.1  -.-   CORUS-ULA (MUGLA)                                 İlksel
+2020.06.15 02:12:15  39.3427   40.6397        5.4      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 02:01:44  39.3442   40.7508        5.0      -.-  1.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 01:53:17  39.3597   40.6673        5.0      -.-  3.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 01:48:13  39.3705   40.4715        8.6      -.-  1.9  -.-   GUZGULU-YEDISU (BINGOL)                           İlksel
+2020.06.15 01:46:36  37.6033   38.6135       15.6      -.-  1.7  -.-   BELOREN-KAHTA (ADIYAMAN)                          İlksel
+2020.06.15 01:40:35  39.3645   40.7027        5.0      -.-  3.8  3.9   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 01:36:23  39.3702   40.7145        5.0      -.-  2.3  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 01:33:58  39.4067   40.6452       20.6      -.-  1.7  -.-   ELMALI-YEDISU (BINGOL)                            REVIZE01   (2020.06.15 01:33:57)
+2020.06.15 01:32:58  39.3648   40.6205        4.5      -.-  1.7  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 01:31:08  39.3490   40.6533        5.1      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 01:20:58  39.3637   40.6892        5.0      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 01:19:32  39.3442   40.7115        6.0      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 01:11:18  39.3487   40.6808       10.8      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 01:09:21  39.3483   40.7295        5.0      -.-  2.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 01:04:59  39.3865   40.6700       19.7      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 01:04:33  39.3693   40.7258        7.7      -.-  1.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 01:01:39  39.3420   40.6937        5.5      -.-  1.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:58:53  39.3453   40.7020        1.6      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:56:59  39.3508   40.7448        5.2      -.-  1.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:55:33  39.3300   40.7627        5.0      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:54:31  39.3723   40.7238        5.2      -.-  1.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:47:57  39.3958   40.6862       16.0      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:47:10  39.3963   40.6687       18.4      -.-  1.5  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 00:46:09  39.3720   40.6225       18.7      -.-  1.8  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 00:39:03  39.3728   40.7098        1.1      -.-  2.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:38:13  39.3783   40.7172        8.4      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:35:19  39.3918   40.7153       15.0      -.-  1.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:34:21  39.3687   40.7002       15.8      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:33:21  39.3610   40.7187        8.9      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:30:04  39.3973   40.6760       15.3      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:20:36  39.3660   40.6808        3.2      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:17:57  39.3622   40.7135        5.0      -.-  3.8  3.9   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:17:04  39.3685   40.7305       15.2      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:12:12  39.3487   40.6378       18.5      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.15 00:06:19  39.3575   40.7195        5.0      -.-  3.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.15 00:04:03  39.3793   40.6490       14.9      -.-  1.5  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.15 00:00:37  39.3735   40.6672       13.2      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 23:59:39  39.3937   40.7195       15.6      -.-  1.8  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 23:57:33  39.3798   40.7102       14.6      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 23:56:56  39.3862   40.7105       15.8      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 23:55:20  39.3902   40.6563       17.7      -.-  2.2  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 23:52:38  39.3617   40.7297        2.5      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 23:46:18  39.3930   40.6427       24.8      -.-  1.4  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 23:41:53  39.3663   40.7162       11.4      -.-  1.8  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 23:40:07  37.0067   28.1468       18.0      -.-  1.2  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2020.06.14 23:37:01  39.3783   40.6302       15.9      -.-  1.9  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 23:34:01  39.0147   27.8365       12.7      -.-  1.6  -.-   GOKCEAHMET-AKHISAR (MANISA)                       İlksel
+2020.06.14 23:33:59  39.3798   40.6497       15.6      -.-  2.2  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 23:26:08  39.3677   40.6327        6.8      -.-  2.2  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 23:21:16  39.3867   40.6385       20.6      -.-  2.1  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 23:20:01  37.3482   35.8080       23.0      -.-  1.4  -.-   YASSICALI-KOZAN (ADANA)                           İlksel
+2020.06.14 23:15:39  39.3510   40.6888        4.1      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 23:14:24  39.3697   40.7935       16.4      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     REVIZE01   (2020.06.14 23:14:23)
+2020.06.14 23:05:45  38.4317   39.2448        5.0      -.-  1.8  -.-   KURKKOY-SIVRICE (ELAZIG)                          İlksel
+2020.06.14 23:03:28  39.3750   40.6852       14.7      -.-  1.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 23:01:13  39.3840   40.7112       16.9      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:58:35  39.3928   40.7152       19.3      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 22:58:22  39.3655   40.7110       15.5      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:55:28  39.3682   40.6967        7.2      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:54:41  39.3802   40.6218       15.5      -.-  1.8  -.-   ELMALI-YEDISU (BINGOL)                            REVIZE01   (2020.06.14 22:54:39)
+2020.06.14 22:53:18  39.3798   40.6423       16.3      -.-  1.9  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 22:51:24  39.3733   40.6460        1.9      -.-  2.0  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 22:49:11  39.3945   40.7272       21.6      -.-  2.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 22:46:24  40.8005   25.6082        7.6      -.-  1.9  -.-   EGE DENIZI                                        İlksel
+2020.06.14 22:43:25  39.3423   40.6835        5.0      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:39:42  39.3592   40.6432        4.5      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:31:51  39.3833   40.6592       12.8      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          REVIZE01   (2020.06.14 22:31:49)
+2020.06.14 22:29:09  39.3700   40.6740        4.0      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:24:31  39.3838   40.6938       19.4      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:17:41  39.3547   40.7287        3.4      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 22:10:54  39.3680   40.7073        8.3      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:10:31  39.3797   40.6418       17.4      -.-  1.8  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 22:08:59  39.3860   40.6168       17.4      -.-  2.0  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 22:04:23  39.3930   40.7092       20.4      -.-  1.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 22:02:52  39.3732   40.6642       15.6      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:58:47  39.3790   40.7255       17.4      -.-  1.6  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 21:57:29  39.3927   40.6833       23.6      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:57:13  39.3422   40.6857       14.8      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:54:09  39.3448   40.7557        5.0      -.-  3.7  3.8   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 21:48:06  39.3517   40.7218        5.0      -.-  2.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 21:45:01  39.3607   40.7100        5.0      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:42:25  39.3627   40.6962        5.0      -.-  2.7  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:40:54  39.3943   40.6580       17.7      -.-  1.7  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 21:36:42  39.3670   40.7083        1.2      -.-  1.6  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:34:45  39.3668   40.7380        5.0      -.-  1.8  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 21:32:40  39.3270   40.6770        5.0      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:28:21  39.3553   40.7067        5.3      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:27:14  39.3773   40.6733        5.4      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:26:22  39.3695   40.7085        4.1      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:25:06  39.3322   40.6765        5.0      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:24:30  36.1478   29.7135        5.0      -.-  1.3  -.-   BAYINDIR-KAS (ANTALYA)                            İlksel
+2020.06.14 21:16:57  39.3458   40.6932        5.4      -.-  1.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:13:27  39.3605   40.7007        3.8      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:09:31  39.3483   40.7058        4.5      -.-  3.0  3.1   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:03:12  39.3657   40.7700        1.3      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 21:01:51  34.0408   26.1498        7.7      -.-  3.2  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.14 21:01:48  39.3620   40.6670        5.4      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 21:00:13  39.3515   40.7630        2.2      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 20:59:21  40.9198   33.8960        7.6      -.-  3.2  3.1   KARABEY-TOSYA (KASTAMONU)                         İlksel
+2020.06.14 20:58:49  39.3980   40.7155        5.0      -.-  2.3  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     REVIZE01   (2020.06.14 20:58:49)
+2020.06.14 20:56:23  39.3745   40.7420        4.7      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 20:54:25  39.3432   40.6992        5.2      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:52:43  39.3573   40.6825        6.5      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:52:13  39.3593   40.7047        5.2      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:50:25  39.3452   40.7413        4.9      -.-  2.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 20:47:06  39.3558   40.6930        8.7      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:46:16  39.3610   40.6910        2.1      -.-  1.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:45:02  39.3788   40.6973        4.9      -.-  2.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:43:23  39.3642   40.7272        5.5      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 20:32:02  39.3600   40.6883        5.9      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:28:38  39.3228   40.7152        5.0      -.-  2.5  -.-   DINARBEY-YEDISU (BINGOL)                          REVIZE01   (2020.06.14 20:28:38)
+2020.06.14 20:26:37  39.3630   40.7522        5.1      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 20:23:08  39.3478   40.6870        1.7      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:17:44  39.3675   40.6727        9.0      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:16:40  39.3475   40.6918        5.0      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:13:13  39.3583   40.7378        4.4      -.-  1.9  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 20:11:04  39.3565   40.6850        5.4      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 20:08:49  39.3537   40.7695        5.8      -.-  2.1  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 20:06:23  39.3567   40.7077        2.8      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 19:59:42  39.3557   40.7390        1.4      -.-  3.6  3.6   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 19:52:59  39.3777   40.6688       14.2      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 19:51:30  39.3422   40.7468        8.7      -.-  2.4  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 19:32:11  39.3667   40.7308        5.0      -.-  3.3  3.4   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 19:27:34  39.3425   40.6673        4.9      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 19:24:35  39.3760   40.6875        5.1      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 19:23:15  39.3470   40.7067        8.3      -.-  2.0  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 19:21:58  39.3490   40.7385       10.0      -.-  2.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 19:18:19  39.3508   40.7127       16.4      -.-  2.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 19:14:15  39.3555   40.7327        5.3      -.-  2.2  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     REVIZE01   (2020.06.14 19:14:14)
+2020.06.14 19:09:19  39.3638   40.6385       16.9      -.-  2.6  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 19:09:18  38.4315   39.0785        8.4      -.-  2.2  -.-   GOZELI-SIVRICE (ELAZIG)                           İlksel
+2020.06.14 19:06:35  39.4007   40.6592        5.3      -.-  2.2  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 18:58:18  39.3293   40.7350        5.0      -.-  3.6  3.8   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 18:53:26  39.3773   40.6542        5.0      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 18:50:36  36.8113   26.2000        7.1      -.-  2.4  -.-   AKDENIZ                                           İlksel
+2020.06.14 18:49:34  39.3257   40.6978        5.0      -.-  2.6  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 18:48:41  38.3908   39.0895        9.1      -.-  1.4  -.-   KALABA-SIVRICE (ELAZIG)                           İlksel
+2020.06.14 18:45:17  39.3568   40.6702        2.8      -.-  2.5  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 18:37:03  39.3330   40.7573        5.0      -.-  3.0  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 18:32:05  39.3323   40.7170        5.0      -.-  2.4  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 18:28:48  39.3710   40.7218       23.3      -.-  2.7  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 18:25:00  39.3730   40.7245        5.0      -.-  3.3  3.5   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 18:22:07  39.3925   40.6570       16.8      -.-  2.1  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 18:09:15  39.3665   40.7655        1.3      -.-  4.6  4.7   KAYNARPINAR-KARLIOVA (BINGOL)                     REVIZE01   (2020.06.14 18:09:14)
+2020.06.14 18:05:14  39.3652   40.6232        6.7      -.-  2.2  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 18:02:40  36.9207   27.5215        4.9      -.-  1.8  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2020.06.14 18:02:12  39.3722   40.6483       12.2      -.-  2.2  -.-   ELMALI-YEDISU (BINGOL)                            İlksel
+2020.06.14 18:02:02  39.3822   40.6938       12.9      -.-  2.3  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 17:57:18  37.1515   34.5510        3.9      -.-  3.1  3.0   SEBIL-CAMLIYAYLA (MERSIN)                         İlksel
+2020.06.14 17:53:46  39.3720   40.6775       16.3      -.-  3.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 17:48:55  39.3800   40.6758       12.6      -.-  3.2  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 17:47:48  39.3513   40.6867        3.0      -.-  3.0  2.8   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 17:45:36  39.3755   40.6827        8.4      -.-  2.8  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 17:43:49  39.3498   40.6403        5.0      -.-  2.9  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2020.06.14 17:34:46  39.3607   40.7458        5.0      -.-  4.5  4.6   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 17:30:31  39.3623   40.7552        5.0      -.-  3.5  -.-   KAYNARPINAR-KARLIOVA (BINGOL)                     İlksel
+2020.06.14 17:24:26  39.3495   40.7350        5.0      -.-  5.8  5.8   KAYNARPINAR-KARLIOVA (BINGOL)                     REVIZE01   (2020.06.14 17:24:27)
+2020.06.14 16:09:54  38.2627   38.8482        1.0      -.-  2.2  -.-   ORMELI-PUTURGE (MALATYA)                          İlksel
+2020.06.14 15:22:56  34.7182   25.4503       31.4      -.-  3.0  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2020.06.14 15:02:13  35.3245   26.6698       49.4      -.-  3.3  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2020.06.14 13:16:29  39.3403   27.8748        5.0      -.-  2.0  -.-   KOZDEREGUVEN-(BALIKESIR)                          İlksel
+2020.06.14 12:09:40  37.1892   27.9683        0.0      -.-  1.6  -.-   CAMLICA-YATAGAN (MUGLA)                           İlksel
+2020.06.14 10:57:04  38.8697   26.4268        5.2      -.-  2.1  -.-   EGE DENIZI                                        İlksel
+2020.06.14 10:36:49  38.6895   38.1273        5.4      -.-  2.1  -.-   AKYAZI-YAZIHAN (MALATYA)                          İlksel
+2020.06.14 08:55:55  38.4970   39.2665        3.0      -.-  1.8  -.-   BEKCITEPE-SIVRICE (ELAZIG)                        İlksel
+2020.06.14 06:47:16  38.2163   27.2563        7.0      -.-  1.5  -.-   YESILKOY-TORBALI (IZMIR)                          İlksel
+2020.06.14 06:03:40  39.1242   27.8287        8.9      -.-  2.0  -.-   KARAKURT-KIRKAGAC (MANISA)                        İlksel
+2020.06.14 05:35:10  40.3080   37.1873        5.0      -.-  2.2  -.-   CILEHANE-ALMUS (TOKAT)                            İlksel
+2020.06.14 05:34:17  39.2828   28.8648        4.4      -.-  2.0  -.-   CAMLIK-SIMAV (KUTAHYA)                            İlksel
+2020.06.14 02:55:23  37.4568   35.9317       22.4      -.-  1.6  -.-   ACARMANTAS-KOZAN (ADANA)                          İlksel
+2020.06.14 01:00:08  36.6862   28.7753       10.8      -.-  1.4  -.-   KAPIKARGIN-DALAMAN (MUGLA)                        İlksel
+2020.06.14 00:39:04  40.1707   34.6127        5.0      -.-  2.0  -.-   EKMEKCI-SUNGURLU (CORUM)                          İlksel
+2020.06.14 00:20:39  37.0948   27.9538       16.1      -.-  1.6  -.-   DEREKOY-MILAS (MUGLA)                             İlksel
+2020.06.13 23:25:44  38.0108   26.7625        7.9      -.-  2.3  -.-   EGE DENIZI                                        İlksel
+2020.06.13 23:21:11  38.0387   26.7483        6.9      -.-  3.0  2.8   EGE DENIZI                                        İlksel
+2020.06.13 22:36:00  37.9152   26.9767        9.0      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2020.06.13 22:33:12  37.3982   38.5998        9.8      -.-  1.9  -.-   YALINTAS-BOZOVA (SANLIURFA)                       İlksel
+2020.06.13 22:08:01  40.8547   28.0912       11.7      -.-  2.6  -.-   MARMARA DENIZI                                    İlksel
+2020.06.13 20:21:10  38.4502   39.2763        7.9      -.-  2.5  -.-   SIVRICE (ELAZIG)                                  İlksel
+2020.06.13 20:01:05  38.8458   26.4182       13.0      -.-  3.1  3.0   EGE DENIZI                                        İlksel
+2020.06.13 19:07:44  38.4867   39.2040        6.3      -.-  2.8  -.-   DEDEYOLU-SIVRICE (ELAZIG)                         İlksel
+2020.06.13 18:31:02  39.2250   28.5535        4.9      -.-  2.2  -.-   MUMCUKOY-SINDIRGI (BALIKESIR)                     İlksel
+2020.06.13 17:20:06  38.4010   39.1387        4.7      -.-  1.2  -.-   KAVAKKOY-SIVRICE (ELAZIG)                         İlksel
+2020.06.13 17:16:31  37.6165   37.3758       13.9      -.-  1.5  -.-   KARAAGAC-PAZARCIK (KAHRAMANMARAS)                 İlksel
+2020.06.13 14:55:58  37.2168   36.0905        9.3      -.-  2.7  -.-   ORHANIYE-(OSMANIYE)                               İlksel
+2020.06.13 14:45:03  38.3328   38.9587       10.1      -.-  2.6  -.-   TOPALUSAGI-SIVRICE (ELAZIG)                       İlksel
+2020.06.13 12:37:33  37.8042   34.5727        5.9      -.-  2.6  -.-   KEMERHISAR-BOR (NIGDE)                            İlksel
+2020.06.13 12:08:43  37.2100   27.9458        0.0      -.-  1.7  -.-   KAYADERE-MILAS (MUGLA)                            İlksel
+2020.06.13 11:41:41  39.9110   35.7715        3.2      -.-  2.1  -.-   BUZLUK-KADISEHRI (YOZGAT)                         İlksel
+2020.06.13 11:25:26  40.6460   34.0468        5.0      -.-  2.1  -.-   INCIK-(CANKIRI)                                   İlksel
+2020.06.13 11:03:27  37.5425   32.1258        5.5      -.-  2.0  -.-   YAYLACIK-SEYDISEHIR (KONYA)                       İlksel
+2020.06.13 10:31:04  35.5240   26.7172        7.5      -.-  2.3  -.-   AKDENIZ                                           İlksel
+2020.06.13 10:05:33  38.7192   27.1045        9.6      -.-  2.0  -.-   CUKURKOY-MENEMEN (IZMIR)                          İlksel
+2020.06.13 10:02:00  37.8703   29.6625        7.8      -.-  2.0  -.-   AVDAN-BOZKURT (DENIZLI)                           İlksel
+2020.06.13 06:58:42  38.2450   27.1647        5.5      -.-  1.6  -.-   MENDERES (IZMIR)                                  İlksel
+2020.06.13 06:55:19  34.3470   25.9393        2.7      -.-  2.9  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2020.06.13 06:30:11  38.7762   27.7208        9.9      -.-  1.8  -.-   KEMIKLIDERE-SARUHANLI (MANISA)                    İlksel
+2020.06.13 05:50:04  36.2192   27.6648        5.9      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2020.06.13 04:59:37  36.0793   28.5075       69.3      -.-  2.4  -.-   AKDENIZ                                           İlksel
+

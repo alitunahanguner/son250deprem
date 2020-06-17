@@ -1,0 +1,272 @@
+
+{% extends "app/layout.html" %}
+
+{% load leaflet_tags %}
+
+{% load geojson_tags %}
+
+{% block content %}
+
+{% leaflet_map "main" callback="window.main_map_init" %}
+
+<style>
+
+.leaflet-container {  /* all maps */
+    width:  100%;
+    /* height: calc(100vh - 60px); */
+    height: 100vh;
+}
+
+.legend, .temporal-legend {
+    padding: 6px 10px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: rgba(0,0,0,0.85);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    color:whitesmoke;
+}
+
+#legendTitle {
+    text-align: center;
+    margin-bottom: 15px;
+    color: whitesmoke;
+    /* font-variant: small-caps; */
+    font-weight: bold;
+}
+
+.symbolsContainer {
+    float: left;
+    margin-left: 50px;
+}
+
+.legendCircle {
+    border-radius:50%;
+    border: 1px solid #537898;
+    background: rgba(0,128,128,0.5);
+    display: inline-block;
+}
+
+.legendValue {
+    position: absolute;
+    right: 12px;
+    color:whitesmoke;
+    font-size:10pt;
+    text-align:center;
+    font-weight: bold;
+}
+
+.info {
+    width:30vw;
+    height:48vh;
+    /* width:20vw; */
+    /* height:300px; */
+    padding: 6px 10px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: rgba(0,0,0,0.85);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    color:whitesmoke;
+    /* max-width:100%;
+    max-height:100%; */
+}
+
+.info h6 {
+    margin: 0 0 5px;
+    color: #777;
+    text-align: center;
+    /* margin-bottom: 15px; */
+    color: whitesmoke;
+    /* font-variant: small-caps; */
+    font-weight: bold;
+}
+
+.info #horBarChart {
+    width: 100% !important;
+    max-width: 800px;
+    /* height:inherit; */
+}
+
+.leaflet-control-layers {
+    float:right;
+    top:500px;
+    right:0;
+    /* margin-left:-200px; */
+    position:absolute;
+    background: rgba(0,0,0,0.85);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    color:whitesmoke;
+}
+<style>
+.leaflet-container {  /* all maps */
+    width:  100%;
+    /* height: calc(100vh - 60px); */
+    height: 100vh;
+}
+
+.legend, .temporal-legend {
+    padding: 6px 10px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: rgba(0,0,0,0.85);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    color:whitesmoke;
+}
+
+#legendTitle {
+    text-align: center;
+    margin-bottom: 15px;
+    color: whitesmoke;
+    /* font-variant: small-caps; */
+    font-weight: bold;
+}
+
+.symbolsContainer {
+    float: left;
+    margin-left: 50px;
+}
+
+.legendCircle {
+    border-radius:50%;
+    border: 1px solid #537898;
+    background: rgba(0,128,128,0.5);
+    display: inline-block;
+}
+
+.legendValue {
+    position: absolute;
+    right: 12px;
+    color:whitesmoke;
+    font-size:10pt;
+    text-align:center;
+    font-weight: bold;
+}
+
+.info {
+    width:30vw;
+    height:48vh;
+    /* width:20vw; */
+    /* height:300px; */
+    padding: 6px 10px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: rgba(0,0,0,0.85);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    color:whitesmoke;
+    /* max-width:100%;
+    max-height:100%; */
+}
+
+.info h6 {
+    margin: 0 0 5px;
+    color: #777;
+    text-align: center;
+    /* margin-bottom: 15px; */
+    color: whitesmoke;
+    /* font-variant: small-caps; */
+    font-weight: bold;
+}
+
+.info #horBarChart {
+    width: 100% !important;
+    max-width: 800px;
+    /* height:inherit; */
+}
+
+.leaflet-control-layers {
+    float:right;
+    top:500px;
+    right:0;
+    /* margin-left:-200px; */
+    position:absolute;
+    background: rgba(0,0,0,0.85);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    color:whitesmoke;
+}
+</style>
+
+<script type="text/javascript">
+  function main_map_init(map, options) {
+
+      var dataset2 = new L.GeoJSON.AJAX("{% url 'tumdepremler' %}", {
+          
+      pointToLayer: function(feature, latlng) {
+        return L.circleMarker(latlng, {
+          fillColor: 'red',
+          color: '#FF0000',
+          weight: 1,
+          fillOpacity: 0.7
+        }).on({
+          mouseover: function(e) {
+            this.setStyle({color: 'blue'});
+          },
+
+          mouseout: function(e) {
+            this.setStyle({color: '#FF0000'});
+          }
+        });
+      },
+
+      onEachFeature: function(feature, layer) {
+        var radius = calcPropRadius(feature.properties.Buyukluk);
+
+        var popupText = "<strong>" + feature.properties.Mekan +'<br>'+feature.properties.TarihveSaat+'<br>' + 'Depremin Büyüklüğü (ML): ' +feature.properties.Buyukluk +'<br>' + 'Depremin Derinliği (KM): ' +feature.properties.Derinlik + "</strong>";
+
+        layer.setRadius(radius/4);  
+
+        layer.bindPopup(popupText, { offset: new L.Point(0, -radius) });
+      }
+    }).addTo(map);
+
+    function calcPropRadius(buyukluk) {
+            var scaleFactor = 90;
+            var area = buyukluk * scaleFactor;
+            return Math.sqrt(area/Math.PI)*3;
+    }
+
+
+    var waterBtn = new L.Control.Button('Depremleri Listele', {
+        toggleButton: 'active',
+        position: 'topleft',
+    });
+
+    waterBtn.addTo(map);
+
+    waterBtn.on('click', function() {
+        rightSidebar.toggle();
+    });
+
+    var rightSidebar = L.control.sidebar('sidebar-right', {
+        closeButton: true,
+        position: 'right'
+    }).addTo(map);
+    rightSidebar.show();
+
+    var sidebar = L.control.sidebar('sidebar', {
+        closeButton: true,
+        position: 'left'
+    }).addTo(map);
+    
+   
+}
+</script>
+
+{% endblock %}
+
+
+{% block sondepremler %}
+{% for i in sondepremler %}
+<body>
+<p>__________________________________________________</p>
+<p style="color:Orange;">{{i.0}}</p>
+<p style="color:LightBlue;">{{i.1}}</p>
+<h6>{{i.2}}</h6>
+</body>
+
+{% endfor %}
+<p>__________________________________________________</p>
+<p>Veriler Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Bölgesel Deprem-Tsunami İzleme Ve Değerlendirme Merkezi tarafından sağlanmıştır. </p>
+<p>Teklif ve İletişim için: aliguner1280@gmail.com</p>
+<p>19 Mayıs 2020</p>
+{% endblock %}
