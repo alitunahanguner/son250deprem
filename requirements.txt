@@ -8,7 +8,7 @@ django-leaflet==0.26.0
 django-toolbelt==0.0.1
 gunicorn==20.0.4
 leaflet==0.0.3
-lxml==4.5.1
+lxml==4.6.3
 numpy==1.18.5
 pandas==1.0.4
 psycopg2==2.8.5
